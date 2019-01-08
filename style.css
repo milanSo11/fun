@@ -1,0 +1,17 @@
+.fakeimg {
+height: 200px;
+background: #aaa;
+  }
+
+  .codecadamy {
+    height: 300px;
+    width: 500px;
+  }
+
+#footer {
+  background: #000;
+  min-height: 100px;
+  text-align: center;
+  color: #fff;
+  padding: 20px 0;
+}
